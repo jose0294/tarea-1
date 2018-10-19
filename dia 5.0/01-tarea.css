@@ -1,0 +1,16 @@
+#tabla{
+	border: 2px solid black;
+}
+
+td{
+	border: 2px solid green;
+}
+
+button{
+	text-align: center;
+	width: 100%
+}
+table{
+		margin: 30% auto;
+
+}
